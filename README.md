@@ -1,8 +1,6 @@
-
-
-
 <!-- Your banner -->
-[![Header](https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Data_Science_AI_Header_2.gif/jcr:content/renditions/cq5dam.web.1200.Data_Science_AI_Header_2.gif)](https://github.com/maksud51)
+
+[<img src="https://media.istockphoto.com/id/1273072739/nl/vector/machine-learning-banner-logo-voor-technologie-ai-big-data-algoritme-neurale-netwerk-deep.jpg?s=170667a&w=0&k=20&c=5pvkEpANaqmlkpHclCislhC2zH7bv6XuNzmVkaKZD3k=" width="1200px">](https://github.com/maksud51)
 
 <!-- Your existing content goes here -->
 
