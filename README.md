@@ -7,7 +7,6 @@
 <!-- ... -->
 
 
-
 <h1 align="center">Hi 👋, I'm Md Al Maksud Alam</h1>
 <h3 align="center">Passionate machine learning enthusiast from Bangladesh, fueled by the excitement of exploring and mastering the intricacies of innovative technologies.</h3>
 
